@@ -6,6 +6,8 @@ import com.alisson.cursomc.domain.Categoria;
 
 public class CategoriaDTO implements Serializable {
 
+	// DTO SERVE PARA TRAFEGAR OS DADOS DE UMA MANEIRA DIFERENTE DA "CATEGORIA"
+	
 	private static final long serialVersionUID = 1L;
 
 	private Integer id;
