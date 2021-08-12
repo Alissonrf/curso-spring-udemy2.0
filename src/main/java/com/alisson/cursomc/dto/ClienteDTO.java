@@ -8,7 +8,9 @@ import javax.validation.constraints.NotEmpty;
 import org.hibernate.validator.constraints.Length;
 
 import com.alisson.cursomc.domain.Cliente;
+import com.alisson.cursomc.services.validation.ClienteUpdate;
 
+@ClienteUpdate
 public class ClienteDTO implements Serializable {
 
 	// DTO SERVE PARA TRAFEGAR OS DADOS DE UMA MANEIRA DIFERENTE DA "CATEGORIA"
