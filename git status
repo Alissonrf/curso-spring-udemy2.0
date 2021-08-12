@@ -1,0 +1,25 @@
+[33md3c5e99[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m inserindo um novo Cliente com POST
+[33m3721162[m correcoes Update em CategoriaService e construtor de Pagamento
+[33ma69e922[m PUT, DELETE e GET para Cliente
+[33m484e875[m personalizando o retorno da validacao
+[33m2a11385[m validacao sintatica com Bean Validation
+[33mf9468d9[m paginacao com parametros adcionais na requisicao
+[33mf692579[m listando todas as categorias com DTO
+[33mfd5bd6c[m Deletando uma categoria com DELETE e tratamento de erros
+[33m95046b7[m Atualizando Categoria com PUT, outros pequenos ajustes
+[33md16db50[m Inserindo uma nova Categoria com POST
+[33m75527b7[m Atualizacao: utilizando somente JsonIgnore
+[33mfb9401f[m Endpoint /pedidos/{id} disponibilizado
+[33m5671c4a[m ItemPedido e ItemPedidoPk
+[33m0c6991d[m Pedido, TipoEstadoPagamento e Pagamento
+[33m1981d36[m Endpoint /clientes/{id} disponivel
+[33mf4468f2[m Cliente, TipoCliente, telefones e enderecos
+[33md8b80bd[m Estado e Cidade
+[33mab30f81[m Ajustes no endpoint /categorias/{id}
+[33mfa24d64[m Produto e associacao muitos para muitos
+[33m4b9e647[m Criando operacao de instanciacao
+[33mbfea5d1[m criando repository e service para Categoria
+[33m8b46000[m Banco de dados H2 e criacao automatica da base de dados
+[33m26918a7[m Testando a primeira classe de dominio - Categoria
+[33m8a25719[m REST testado
+[33mccacf7d[m projeto criado
